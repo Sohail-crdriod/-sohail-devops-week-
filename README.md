@@ -2,5 +2,5 @@
 
 Learning Git and GitHub
 
-wrote my first script and add a crontab to it 
+wrote my first script and added a crontab to it 
 
